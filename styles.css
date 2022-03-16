@@ -18,15 +18,7 @@
   height: 100vh;
   width: 100%;
 }
-.title{
-  color: #fed201;;
-  font-family: "Signika Negative", sans-serif;
-  font-weight: 300;
-  font-size:18px;
-  text-transform: uppercase;
-  text-align: center;
-  padding: 20px;
-}
+
 
 /* FOOTER */
 .footer {
