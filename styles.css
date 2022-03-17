@@ -19,18 +19,29 @@
   width: 100%;
 }
 /* MENU */
+.nav{
+  background-color: #fed201;
+  background-size: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
 .menu{
-  width: 30px;
-  margin: 10px;
+  width: 35px;
+  height: 35px;
+  margin: 5px;
   cursor: pointer;
   background-color: #fed201;
+  background-size: 90px;
 }
-
 .listdogs{
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  margin: 10px;
+  background-color: #fed201;
+  width: 90px;
+  height: 122px;
+  transform: translateY(-4px);
 }
 .hidden{
   display: none;
@@ -38,15 +49,26 @@
 .aboutus{
   font-family: "Signika Negative", sans-serif;
   font-weight: 800;
-  color: white;
+  color: black;
   font-size: 16px;
+  padding-top: 5px;
+  margin: 5px;
 }
 .whyadopt{
   font-family: "Signika Negative", sans-serif;
   font-weight: 800;
-  color: white;
+  color: black;
   font-size: 16px;
   padding-top: 10px;
+  margin: 5px;
+}
+.contactus{
+  font-family: "Signika Negative", sans-serif;
+  font-weight: 800;
+  color: black;
+  font-size: 16px;
+  padding-top: 10px;
+  margin: 5px;
 }
 
 /* FOOTER */
