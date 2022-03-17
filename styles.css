@@ -58,6 +58,11 @@
   padding-top: 15px;
   margin: 5px;
   width: 100%;
+  cursor: pointer;
+  transition: 2s color;
+}
+.aboutus:hover{
+  color: transparent;
 }
 .whyadopt{
   font-family: "Signika Negative", sans-serif;
@@ -67,6 +72,11 @@
   padding-top: 15px;
   margin: 5px;
   width: 100%;
+  cursor: pointer;
+  transition: 2s color;
+}
+.whyadopt:hover{
+  color: transparent;
 }
 .contactus{
   font-family: "Signika Negative", sans-serif;
@@ -76,6 +86,11 @@
   padding-top: 15px;
   margin: 5px;
   width: 100%;
+  cursor: pointer;
+  transition: 2s color;
+}
+.contactus:hover{
+  color: transparent;
 }
 
 /* FOOTER */
